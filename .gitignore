@@ -1,0 +1,12 @@
+/logs/
+/**/*.pyc
+/**/*.ipynb
+/**/.ipynb_checkpoints
+datasets/*
+
+.idea/
+.vscode
+.coverage
+
+.DS_Store
+*.log
