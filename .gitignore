@@ -5,6 +5,7 @@
 datasets/*
 
 .idea/
+dask-worker-space/
 .vscode
 .coverage
 
